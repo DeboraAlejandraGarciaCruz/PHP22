@@ -1,2 +1,2 @@
-VCCC
+VCC
 # PHP22
