@@ -1,2 +1,2 @@
-CFFFF
+CFFF
 # PHP22
