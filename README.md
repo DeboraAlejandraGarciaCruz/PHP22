@@ -1,2 +1,2 @@
-CFRfF
+C
 # PHP22c
